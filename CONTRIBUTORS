@@ -1,5 +1,5 @@
 # This is the official list of people who can contribute
-# (and typically have contributed) code to the go-hep
+# (and typically have contributed) code to the astrogo
 # repository.
 #
 # The AUTHORS file lists the copyright holders; this file
@@ -19,3 +19,4 @@ Sebastien Binet <binet@cern.ch>
 Thomas Bellembois <thomas.bellembois@gmail.com>
 Fabio Hernandez <fabio@in2p3.fr>
 Rick Bassham <brodrick.bassham@gmail.com>
+Brandon Dube <brandon.dube@jpl.nasa.gov>
